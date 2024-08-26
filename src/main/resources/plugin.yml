@@ -1,0 +1,8 @@
+name: IPBanPlugin
+version: '${project.version}'
+main: org.oftx.ipbanplugin.IPBanPlugin
+api-version: '1.20'
+permissions:
+  ipbanplugin.bypass:
+    description: Allows bypassing the IP ban.
+    default: false

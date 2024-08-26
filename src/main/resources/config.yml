@@ -1,0 +1,7 @@
+allowed-countries:
+  - CN
+kick-message: |
+  You are not allowed to join from your location.
+  If you want to join this server, please contact us by:
+  Email » user@example.com
+  Info: %ip% - %country%
